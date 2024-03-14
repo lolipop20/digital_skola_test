@@ -1,3 +1,3 @@
 # digital_skola_test
 
-Ini adalah contoh conflict
+Ini adalah contoh conflict yang ada
